@@ -1,2 +1,3 @@
 # randomFox
-random foxes
+random foxes with the API https://randomfox.ca/floof
+
