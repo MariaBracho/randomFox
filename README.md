@@ -1,3 +1,3 @@
-# randomFox
-random foxes with the API https://randomfox.ca/floof
+# RandomFox
+Random foxes with the API https://randomfox.ca/floof
 
